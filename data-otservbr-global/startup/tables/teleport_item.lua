@@ -51,7 +51,7 @@ TeleportItemAction = {
 	},
 	-- Teleports Thais
 	[24873] = {
-		itemId = false,
+		itemId = true,
 		itemPos = {
 			{ x = 32325, y = 32087, z = 7 },
 			{ x = 32328, y = 32087, z = 7 },
